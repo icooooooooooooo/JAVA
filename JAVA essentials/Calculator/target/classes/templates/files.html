@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>Files</title></head>
+
+<body>
+
+All the files in C:\\
+
+<div th:each="file : ${allFiles}" th:text="${file.name}"> </div>
+
+
+</body>
+</html>
