@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f58bd108-4aac-4d49-adca-18501e089f56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Files and streams/resources/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CapitalSTrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CopyAPicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CopyBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CountCharacterTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/ExtractIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/GetFolderSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/LineNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/ListFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/MergeTwoFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/NestedFolders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SerializeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SerializeCustomObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SortLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SumBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SumLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/WriteEverythirdLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/WriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and streams/src/readFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/BalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/BasicQueueOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/BasicStackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/DecimalToBinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/HotPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MatchingBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MatrixOfPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MatrixShuffling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MaximalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MaximumSumSubmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/ReverseNumbersWStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/SplitByWordCasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/StackCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/StringMatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Data/src/sumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/AMinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/AcademyGraduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/CountSameValuesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/CountSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/FixEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/HandsOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/HandsOfCards2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/PeriodicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/SetsOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/SoftUniParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/UniqueUsernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/UserLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/Voina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountSubstringOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtractEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtractTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MagicExchangeableWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatchFullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatchPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParseTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParseURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplaceTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenceExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeriesOfLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnicodeCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidUsernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VowelCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/BlurFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/BlurFilter.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MatchFullName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MatchPhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReplaceTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExtractEmails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SentenceExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/regex/Matcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="717" column="19" selection-start-line="717" selection-start-column="19" selection-end-line="717" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ValidUsernames.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/StudentResults.java" />
+        <option value="$PROJECT_DIR$/src/ParseURL.java" />
+        <option value="$PROJECT_DIR$/src/ParseTags.java" />
+        <option value="$PROJECT_DIR$/src/SeriesOfLetters.java" />
+        <option value="$PROJECT_DIR$/src/VowelCount.java" />
+        <option value="$PROJECT_DIR$/src/ExtractTags.java" />
+        <option value="$PROJECT_DIR$/src/ValidUsernames.java" />
+        <option value="$PROJECT_DIR$/src/CountSubstringOccurrences.java" />
+        <option value="$PROJECT_DIR$/src/SumBigNumbers.java" />
+        <option value="$PROJECT_DIR$/src/TextFilter.java" />
+        <option value="$PROJECT_DIR$/src/UnicodeCharacters.java" />
+        <option value="$PROJECT_DIR$/src/Palindromes.java" />
+        <option value="$PROJECT_DIR$/src/MagicExchangeableWords.java" />
+        <option value="$PROJECT_DIR$/src/MatchFullName.java" />
+        <option value="$PROJECT_DIR$/src/MatchPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/ReplaceTag.java" />
+        <option value="$PROJECT_DIR$/src/ExtractEmails.java" />
+        <option value="$PROJECT_DIR$/src/SentenceExtractor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="String Processing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="String Processing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="String Processing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="String Processing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="String Processing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SentenceExtractor">
+    <configuration name="ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtractEmails" />
+      <module name="String Processing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchFullName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatchFullName" />
+      <module name="String Processing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatchPhoneNumber" />
+      <module name="String Processing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceTag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceTag" />
+      <module name="String Processing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentenceExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenceExtractor" />
+      <module name="String Processing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SentenceExtractor" />
+        <item itemvalue="Application.ExtractEmails" />
+        <item itemvalue="Application.ReplaceTag" />
+        <item itemvalue="Application.MatchPhoneNumber" />
+        <item itemvalue="Application.MatchFullName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f58bd108-4aac-4d49-adca-18501e089f56" name="Default Changelist" comment="" />
+      <created>1587732085230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587732085230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24678664" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
+      <window_info anchor="bottom" id="Job test results" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32969153" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven-2 Build" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Jenkins" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24678664" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Job test results" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32969153" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven-2 Build" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Jenkins" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParseTags.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParseTags.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParseTags.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeriesOfLetters.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeriesOfLetters.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeriesOfLetters.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeriesOfLetters.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeriesOfLetters.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SeriesOfLetters.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExtractTags.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExtractTags.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExtractTags.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExtractTags.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidUsernames.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidUsernames.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidUsernames.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidUsernames.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumBigNumbers.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumBigNumbers.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Palindromes.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Palindromes.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MagicExchangeableWords.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MagicExchangeableWords.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MagicExchangeableWords.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MagicExchangeableWords.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MagicExchangeableWords.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReplaceTag.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReplaceTag.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/StudentResults.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeriesOfLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VowelCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtractTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountSubstringOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumBigNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="2038" column="7" lean-forward="true" selection-start-line="2038" selection-start-column="7" selection-end-line="2038" selection-end-column="7" />
+          <folding>
+            <element signature="e#58314#58315#0" expanded="true" />
+            <element signature="e#58358#58359#0" expanded="true" />
+            <element signature="e#81254#81255#0" expanded="true" />
+            <element signature="e#81303#81304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="204" column="25" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MagicExchangeableWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParseTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParseURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="110" selection-start-line="8" selection-start-column="110" selection-end-line="8" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnicodeCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ValidUsernames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="717" column="19" selection-start-line="717" selection-start-column="19" selection-end-line="717" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatchFullName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatchPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReplaceTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtractEmails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SentenceExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

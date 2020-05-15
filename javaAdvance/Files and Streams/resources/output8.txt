@@ -1,0 +1,14 @@
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\Exercises Resources
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\input.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\input1.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\inputLineNumbers.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\inputOne.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\inputTwo.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\output.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\output3.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\output5.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\output6.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\output7.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\output8.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\text.txt
+C:\Users\Hristo\Desktop\JAVA\JAVA\javaAdvance\Files and Streams\resources\words.txt
