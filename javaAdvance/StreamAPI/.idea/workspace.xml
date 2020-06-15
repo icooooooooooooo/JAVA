@@ -2,118 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2928aae-2935-4b47-8388-8cd76f2a20ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Files and streams/resources/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CapitalSTrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CopyAPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CopyBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/CountCharacterTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/ExtractIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/GetFolderSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/LineNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/ListFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/MergeTwoFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/NestedFolders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SerializeArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SerializeCustomObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SortLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SumBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/SumLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/WriteEverythirdLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Files and streams/src/readFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/AddVAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/AppliedArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/ConsumerPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/CountUppercaseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/CustomComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/CustomMinFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/FilterByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/FindEvensOrOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/FindTheSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/KnightsOfHonor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/ListOfPredicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/PredicateNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/PredicateParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/ReverseAndExclude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/SortEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functional Programming/src/SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/BalancedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/BasicQueueOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/BasicStackOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/DecimalToBinaryConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/HotPotato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MatchingBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MatrixOfPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MatrixShuffling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MaximalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/MaximumSumSubmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/ReverseNumbersWStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/Robotics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/SplitByWordCasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/StackCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/StringMatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linear Data/src/sumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/AMinerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/AcademyGraduation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/CountSameValuesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/CountSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/FixEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/HandsOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/HandsOfCards2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/PeriodicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/SetsOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/SoftUniParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/UniqueUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/UserLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets and Maps/src/Voina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AverageOfDoubles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoundedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExcellentStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilterStudentsByEmailDomain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilterStudentsByPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindAndSumIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupByGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LittleAlchemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapDistricts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shockwave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentsByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentsByFirstAndLastName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentsByGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentsEnrolledIn2014And2015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentsJoinedToSpecialties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TakeTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpperStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeakStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/CountSubstringOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/ExtractEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/ExtractTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/MagicExchangeableWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/MatchFullName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/MatchPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/ParseTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/ParseURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/ReplaceTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/SentenceExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/SeriesOfLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/StudentResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/SumBigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/TextFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/UnicodeCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/ValidUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String Processing/src/VowelCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/BlurFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/BlurFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ascend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FootballStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LittleAlchemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LittleAlchemy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,49 +19,14 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentsJoinedToSpecialties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#381#423#1" />
-                <element signature="e#520#582#1" />
-                <element signature="e#1457#1458#0" expanded="true" />
-                <element signature="e#1484#1485#0" expanded="true" />
-                <element signature="e#1520#1521#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-                <element signature="e#1589#1590#0" expanded="true" />
-                <element signature="e#1622#1623#0" expanded="true" />
-                <element signature="e#1725#1726#0" expanded="true" />
-                <element signature="e#1757#1758#0" expanded="true" />
-                <element signature="e#1807#1808#0" expanded="true" />
-                <element signature="e#1849#1850#0" expanded="true" />
-                <element signature="e#1901#1902#0" expanded="true" />
-                <element signature="e#1945#1946#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Shockwave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="442">
               <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -177,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LittleAlchemy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="11" selection-start-line="18" selection-end-line="19" />
+            <state relative-caret-position="85">
+              <caret line="10" selection-start-line="8" selection-start-column="4" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -190,18 +48,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Sets and Maps/src/HandsOfCards.java">
+        <entry file="file://$PROJECT_DIR$/src/Ascend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="238">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Linear Data/src/sumMatrix.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FootballStats.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="457">
+              <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,6 +79,15 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>join</find>
+      <find>team</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>teams</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -246,6 +117,9 @@
         <option value="$PROJECT_DIR$/src/Shockwave.java" />
         <option value="$PROJECT_DIR$/../Sets and Maps/src/HandsOfCards.java" />
         <option value="$PROJECT_DIR$/src/LittleAlchemy.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/Ascend.java" />
+        <option value="$PROJECT_DIR$/src/FootballStats.java" />
       </list>
     </option>
   </component>
@@ -254,13 +128,6 @@
       <expand />
       <select />
     </treeState>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -298,6 +165,9 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -310,49 +180,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Shockwave">
-    <configuration name="ExcellentStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExcellentStudents" />
+  <component name="RunManager" selected="Application.FootballStats">
+    <configuration name="Ascend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ascend" />
       <module name="StreamAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupByGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupByGroup" />
+    <configuration name="FootballStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FootballStats" />
       <module name="StreamAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shockwave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shockwave" />
+    <configuration name="LittleAlchemy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LittleAlchemy" />
       <module name="StreamAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentsEnrolledIn2014And2015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentsEnrolledIn2014And2015" />
+    <configuration name="Pr03Ascent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation01.Pr03Ascent" />
       <module name="StreamAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeakStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeakStudents" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation01.test" />
       <module name="StreamAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shockwave" />
-        <item itemvalue="Application.GroupByGroup" />
-        <item itemvalue="Application.StudentsEnrolledIn2014And2015" />
-        <item itemvalue="Application.WeakStudents" />
-        <item itemvalue="Application.ExcellentStudents" />
+        <item itemvalue="Application.FootballStats" />
+        <item itemvalue="Application.Ascend" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Pr03Ascent" />
+        <item itemvalue="Application.LittleAlchemy" />
       </list>
     </recent_temporary>
   </component>
@@ -373,19 +255,14 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24871466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32974428" />
-      <window_info anchor="bottom" id="Job test results" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
@@ -393,16 +270,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.32969153" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven-2 Build" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Jenkins" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
+      <window_info anchor="bottom" id="Job test results" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32969153" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven-2 Build" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Jenkins" order="9" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -457,6 +339,104 @@
           <line>21</line>
           <properties />
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>53</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LittleAlchemy.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ascend.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ascend.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ascend.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ascend.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -586,19 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="1871" column="18" selection-start-line="1871" selection-start-column="18" selection-end-line="1871" selection-end-column="18" />
-          <folding>
-            <element signature="e#58951#58952#0" expanded="true" />
-            <element signature="e#59020#59021#0" expanded="true" />
-            <element signature="e#81254#81255#0" expanded="true" />
-            <element signature="e#81303#81304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FilterStudentsByEmailDomain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -698,51 +665,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Linear Data/src/sumMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StudentsJoinedToSpecialties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="765">
+          <caret line="49" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
           <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
           <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#381#423#1" />
-            <element signature="e#520#582#1" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1484#1485#0" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1589#1590#0" expanded="true" />
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1725#1726#0" expanded="true" />
-            <element signature="e#1757#1758#0" expanded="true" />
-            <element signature="e#1807#1808#0" expanded="true" />
-            <element signature="e#1849#1850#0" expanded="true" />
-            <element signature="e#1901#1902#0" expanded="true" />
-            <element signature="e#1945#1946#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shockwave.java">
+    <entry file="file://$PROJECT_DIR$/../Linear Data/src/sumMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -758,15 +695,78 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="178" column="50" selection-start-line="177" selection-start-column="46" selection-end-line="178" selection-end-column="50" />
+        <state relative-caret-position="276">
+          <caret line="192" column="6" selection-start-line="192" selection-start-column="6" selection-end-line="192" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12512">
+          <caret line="775" column="19" selection-start-line="775" selection-start-column="19" selection-end-line="775" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../String Processing/src/TextFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="2072" column="48" selection-start-line="2065" selection-start-column="28" selection-end-line="2067" selection-end-column="6" />
+          <folding>
+            <element signature="e#58951#58952#0" expanded="true" />
+            <element signature="e#59020#59021#0" expanded="true" />
+            <element signature="e#81254#81255#0" expanded="true" />
+            <element signature="e#81303#81304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shockwave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LittleAlchemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="11" selection-start-line="18" selection-end-line="19" />
+        <state relative-caret-position="85">
+          <caret line="10" selection-start-line="8" selection-start-column="4" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ascend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FootballStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

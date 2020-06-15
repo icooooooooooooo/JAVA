@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8613488-3bed-4766-97d9-e5b42c2c3da9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/animal_farm/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal_farm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/box1_box2/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/box1_box2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_and_reserve_team/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_and_reserve_team/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_and_reserve_team/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salary_increase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salary_increase/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping_spree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping_spree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping_spree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_by_name_and_age/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_by_name_and_age/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validation_data/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validation_data/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validation_data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/car_salesman/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/car_salesman/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/car_salesman/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/employee_roster/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/employee_roster/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/pokémon_trainer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/pokémon_trainer/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/pokémon_trainer/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/Crossfire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/DHARMASupplies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/Earthquake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/GUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/src/LittleAlchemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/src/Shockwave.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sort_by_name_and_age/Main.java" />
+        <option value="$PROJECT_DIR$/src/sort_by_name_and_age/Person.java" />
+        <option value="$PROJECT_DIR$/src/salary_increase/Main.java" />
+        <option value="$PROJECT_DIR$/src/salary_increase/Person.java" />
+        <option value="$PROJECT_DIR$/src/validation_data/Name.java" />
+        <option value="$PROJECT_DIR$/src/validation_data/Main.java" />
+        <option value="$PROJECT_DIR$/src/validation_data/Person.java" />
+        <option value="$PROJECT_DIR$/src/first_and_reserve_team/Team.java" />
+        <option value="$PROJECT_DIR$/src/first_and_reserve_team/Player.java" />
+        <option value="$PROJECT_DIR$/src/first_and_reserve_team/Main.java" />
+        <option value="$PROJECT_DIR$/src/box/Box.java" />
+        <option value="$PROJECT_DIR$/src/box/Main.java" />
+        <option value="$PROJECT_DIR$/src/animal_farm/Main.java" />
+        <option value="$PROJECT_DIR$/src/animal_farm/Chicken.java" />
+        <option value="$PROJECT_DIR$/src/shopping_spree/Person.java" />
+        <option value="$PROJECT_DIR$/src/shopping_spree/Product.java" />
+        <option value="$PROJECT_DIR$/src/shopping_spree/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Encapsulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encapsulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Encapsulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (5)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="salary_increase.Main" />
+      <module name="Encapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salary_increase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="validation_data.Main" />
+      <module name="Encapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validation_data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_and_reserve_team.Main" />
+      <module name="Encapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_and_reserve_team.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animal_farm.Main" />
+      <module name="Encapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animal_farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shopping_spree.Main" />
+      <module name="Encapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shopping_spree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="box1_box2.Main" />
+      <module name="Encapsulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="box1_box2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8613488-3bed-4766-97d9-e5b42c2c3da9" name="Default Changelist" comment="" />
+      <created>1591282300896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591282300896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24807198" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Job test results" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32969153" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven-2 Build" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Jenkins" order="9" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/validation_data/Main.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping_spree/Main.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping_spree/Main.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping_spree/Main.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping_spree/Main.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping_spree/Main.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sort_by_name_and_age/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort_by_name_and_age/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/salary_increase/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validation_data/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/salary_increase/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first_and_reserve_team/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first_and_reserve_team/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first_and_reserve_team/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="1345" column="22" selection-start-line="1345" selection-start-column="22" selection-end-line="1345" selection-end-column="22" />
+          <folding>
+            <element signature="e#51932#51933#0" expanded="true" />
+            <element signature="e#51971#51972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validation_data/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/box1_box2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/box1_box2/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validation_data/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="24" column="54" selection-start-line="21" selection-start-column="12" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/animal_farm/Chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#1608#1609#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/animal_farm/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shopping_spree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shopping_spree/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Person#1;class#Person#0" />
+            <element signature="method#Person#2;class#Person#0" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+            <element signature="method#setMoney#0;class#Person#0" />
+            <element signature="method#setName#0;class#Person#0" />
+            <element signature="e#1929#1930#0" expanded="true" />
+            <element signature="e#1961#1962#0" expanded="true" />
+            <element signature="e#1994#1995#0" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
+            <element signature="e#2073#2074#0" expanded="true" />
+            <element signature="e#2143#2144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shopping_spree/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

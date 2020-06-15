@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b549db7d-0c08-4722-802c-065634e9d66c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/animal_farm/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/animal_farm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/box1_box2/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/box1_box2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/first_and_reserve_team/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/first_and_reserve_team/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/first_and_reserve_team/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/salary_increase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/salary_increase/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/shopping_spree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/shopping_spree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/shopping_spree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/sort_by_name_and_age/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/sort_by_name_and_age/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/validation_data/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/validation_data/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/validation_data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hierarchical_inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hierarchical_inheritance/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hierarchical_inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hierarchical_inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiple_inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiple_inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiple_inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiple_inheritance/Puppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/single_inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/single_inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/single_inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/Person3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/car_salesman/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/car_salesman/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/car_salesman/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/employee_roster/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/employee_roster/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/google/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/pokémon_trainer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/pokémon_trainer/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/pokémon_trainer/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPBasic/src/raw_data/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/Crossfire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/DHARMASupplies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/Earthquake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaAdvance/ExamPrep/src/GUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/src/LittleAlchemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaAdvance/StreamAPI/src/Shockwave.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="10" selection-end-line="13" />
+              <folding>
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/single_inheritance/Dog.java" />
+        <option value="$PROJECT_DIR$/src/single_inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/single_inheritance/Main.java" />
+        <option value="$PROJECT_DIR$/src/multiple_inheritance/Dog.java" />
+        <option value="$PROJECT_DIR$/src/multiple_inheritance/Puppy.java" />
+        <option value="$PROJECT_DIR$/src/multiple_inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/multiple_inheritance/Main.java" />
+        <option value="$PROJECT_DIR$/src/hierarchical_inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/hierarchical_inheritance/Cat.java" />
+        <option value="$PROJECT_DIR$/src/hierarchical_inheritance/Dog.java" />
+        <option value="$PROJECT_DIR$/src/hierarchical_inheritance/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Inheritance" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Inheritance" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiple_inheritance.Main" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multiple_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hierarchical_inheritance.Main" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hierarchical_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="single_inheritance.Main" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="single_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b549db7d-0c08-4722-802c-065634e9d66c" name="Default Changelist" comment="" />
+      <created>1591645366837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591645366837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Job test results" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.32969153" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven-2 Build" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Jenkins" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/single_inheritance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/single_inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/single_inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_inheritance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_inheritance/Puppy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="10" selection-end-line="13" />
+          <folding>
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hierarchical_inheritance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
