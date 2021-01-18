@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="136b0050-8d31-4d70-9c3a-8d1b3b28fe08" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>org.junit.jupiter.api.</find>
+    </findStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hruWz0fKbcdaphd0QtjNkj7RIH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTTP Request" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="panzer.models.miscellaneous" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hristo Skipernov\Desktop\UnitTestng\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="panzer.models.miscellaneous" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="panzer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VehicleAssemblerTest.addEndurancePart">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleAssemblerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.models.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer.models.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="panzer.models.miscellaneous.VehicleAssemblerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleAssemblerTest.addArsenalPart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.models.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer.models.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="panzer.models.miscellaneous.VehicleAssemblerTest" />
+      <option name="METHOD_NAME" value="addArsenalPart" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleAssemblerTest.addEndurancePart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.models.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer.models.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="panzer.models.miscellaneous.VehicleAssemblerTest" />
+      <option name="METHOD_NAME" value="addEndurancePart" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleAssemblerTest.addShellPart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.models.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer.models.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="panzer.models.miscellaneous.VehicleAssemblerTest" />
+      <option name="METHOD_NAME" value="addShellPart" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleAssemblerTest.getTotalHitPointModification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.models.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer.models.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="panzer.models.miscellaneous.VehicleAssemblerTest" />
+      <option name="METHOD_NAME" value="getTotalHitPointModification" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.VehicleAssemblerTest.getTotalHitPointModification" />
+      <item itemvalue="JUnit.VehicleAssemblerTest" />
+      <item itemvalue="JUnit.VehicleAssemblerTest.addArsenalPart" />
+      <item itemvalue="JUnit.VehicleAssemblerTest.addShellPart" />
+      <item itemvalue="JUnit.VehicleAssemblerTest.addEndurancePart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VehicleAssemblerTest.addEndurancePart" />
+        <item itemvalue="JUnit.VehicleAssemblerTest.addShellPart" />
+        <item itemvalue="JUnit.VehicleAssemblerTest.getTotalHitPointModification" />
+        <item itemvalue="JUnit.VehicleAssemblerTest.addArsenalPart" />
+        <item itemvalue="JUnit.VehicleAssemblerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136b0050-8d31-4d70-9c3a-8d1b3b28fe08" name="Default" comment="" />
+      <created>1532218883625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532218883625</updated>
+      <workItem from="1532218887549" duration="3598000" />
+      <workItem from="1532267729925" duration="4346000" />
+      <workItem from="1532411566774" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8266000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1600805478063">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1600805478063" />
+    <state x="243" y="0" key="#VehicleAssemblerTest" timestamp="1600892275619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="0" key="#VehicleAssemblerTest/0.0.1280.680@0.0.1280.680" timestamp="1600892275619" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600979149545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1600979149545" />
+    <state x="371" y="117" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1600892157310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="117" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1600892157310" />
+    <state width="439" height="438" key="DebuggerActiveHint" timestamp="1601062455323">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="439" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1601062455323" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1601063674340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601063674340" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1600781678158">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1600781678158" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1601061721772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1601061721772" />
+    <state x="412" y="79" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600892199707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="79" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1600892199707" />
+    <state x="2262" y="181" key="new project wizard" timestamp="1600845258157">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="181" key="new project wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600845258157" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601059577809">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1601059577809" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/panzer/models/miscellaneous/VehicleAssembler.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/panzer/models/miscellaneous/VehicleAssemblerTest.java</url>
+          <line>182</line>
+          <properties class="panzer.models.miscellaneous.VehicleAssemblerTest" method="addEndurancePart">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.CGLIB$CALLBACK_1" custom="panzer.contracts.DefenseModifyingPart,panzer.models.miscellaneous.VehicleAssemblerTest" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

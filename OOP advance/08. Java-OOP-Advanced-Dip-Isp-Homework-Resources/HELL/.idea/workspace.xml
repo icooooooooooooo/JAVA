@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="760ea022-aade-4917-bcbd-6d2ea2093175" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1knX2EyrNBHX2qNhCVpIaLzXtXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="entities.miscellaneous" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entities.miscellaneous.items" />
+      <recent name="entities.miscellaneous.heroes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uk14000494\IdeaProjects\08. Java-OOP-Advanced-Dip-Isp-Homework-Resources\HELL\src\main\java" />
+      <recent name="C:\Users\uk14000494\IdeaProjects\08. Java-OOP-Advanced-Dip-Isp-Homework-Resources\HELL\src\test\java" />
+      <recent name="C:\Users\uk14000494\IdeaProjects\08. Java-OOP-Advanced-Dip-Isp-Homework-Resources\HELL\src" />
+      <recent name="C:\Users\uk14000494\IdeaProjects\08. Java-OOP-Advanced-Dip-Isp-Homework-Resources\HELL" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HELL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.addCommonItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HELL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="addCommonItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.getTotalDamageBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HELL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="getTotalDamageBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.getTotalHitPointsBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HELL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="getTotalHitPointsBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.getTotalIntelligenceBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HELL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="getTotalIntelligenceBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.HeroInventoryTest.addCommonItem" />
+        <item itemvalue="JUnit.HeroInventoryTest.getTotalDamageBonus" />
+        <item itemvalue="JUnit.HeroInventoryTest.getTotalHitPointsBonus" />
+        <item itemvalue="JUnit.HeroInventoryTest.getTotalIntelligenceBonus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="760ea022-aade-4917-bcbd-6d2ea2093175" name="Default Changelist" comment="" />
+      <created>1606337119686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606337119686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2506" y="198" key="#Inspections" timestamp="1606340125573">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2506" y="198" key="#Inspections/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606340125573" />
+    <state x="2472" y="178" width="816" height="729" key="#Intentions" timestamp="1606340330574">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" width="816" height="729" key="#Intentions/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606340330574" />
+    <state x="2360" y="94" key="#Project_Structure" timestamp="1606340746540">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="#Project_Structure/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606340746540" />
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1606429551846">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606429551846" />
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1606516636197">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606516636197" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606509065158" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606509065158" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606509065157" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606509065158" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1606724111750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111750" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606427773539" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606427773539" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606427773539" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1606724111749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606724111749" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606427773539" />
+    <state x="2410" y="175" key="Maven.ArtifactSearchDialog" timestamp="1606424222656">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2410" y="175" key="Maven.ArtifactSearchDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606424222656" />
+    <state x="2651" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606425703692">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2651" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606425703692" />
+    <state x="2610" y="270" key="extract.method.dialog" timestamp="1606431531102">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="270" key="extract.method.dialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606431531102" />
+    <state x="91" y="2" key="new project wizard" timestamp="1610440495218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="2" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1610440495218" />
+  </component>
+</project>
